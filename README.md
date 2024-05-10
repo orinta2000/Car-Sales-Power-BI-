@@ -2,7 +2,7 @@
 ## Project overview
 Our company is a car dealership that sells various car models. To effectively track and analyse our sales performance, we need a comprehensive Car Sales Dashbord in Power BI.
 ## Data source
-Car sales data, xlsx file.
+[car sales data](https://drive.google.com/drive/folders/1h6RQTGkoMOqovVUh9qf_nX5bI1_Meg8w)
 ## Tools
 Power BI
 ## Data preparation 
