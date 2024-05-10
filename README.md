@@ -1,6 +1,13 @@
 # **Car sales**
 ## Project overview
 Our company is a car dealership that sells various car models. To effectively track and analyse our sales performance, we need a comprehensive Car Sales Dashbord in Power BI.
+> Final results
+>
+> ![Overview snipp](https://github.com/orinta2000/Car-Sales-Power-BI-/assets/126684496/d30569c2-f571-4f0e-b543-d202ee6f8081)
+>
+> ![Details snipp](https://github.com/orinta2000/Car-Sales-Power-BI-/assets/126684496/933643db-968c-4c0d-b610-0a6de33d2468)
+
+
 ## Data source
 [car sales data](https://drive.google.com/drive/folders/1h6RQTGkoMOqovVUh9qf_nX5bI1_Meg8w)
 ## Tools
